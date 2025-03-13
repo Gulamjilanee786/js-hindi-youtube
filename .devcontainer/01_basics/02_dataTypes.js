@@ -2,14 +2,12 @@
 
 // alert( 3 + 3) // we are using nodejs, not browser
 
-console.log(3 
-    +
-     3) // code readability should be high
+console.log(3 + 3) // code readability should be high
 
-console.log("Hitesh")
+console.log("Jilanee")
 
 
-let name = "hitesh"
+let name = "Jilanee"
 let age = 18
 let isLoggedIn = false
 let state;
